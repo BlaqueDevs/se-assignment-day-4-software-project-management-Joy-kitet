@@ -30,6 +30,9 @@
 5. Resource Management: Optimize the use of resources by accurately estimating the time and effort required for tasks, and by ensuring that team members are effectively utilized.
    
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+-Waterfall is Like a linear flow—one step finishes before the next starts while Agile is More flexible, focusing on small, rapid cycles (called sprints).
+        Advantages of Agile methodology
+
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
