@@ -68,6 +68,11 @@
 4. Simple or Smaller Projects: eg.A website redesign for a small business with a clear set of requirements and minimal need for ongoing changes.
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+         Methods for ensuring quality assurance throughout a software project
+1. Code Reviews: Conducting peer reviews of code changes ensures that multiple perspectives are applied to the code quality, catching potential issues before they reach production.
+2. Automated Testing: Implementing automated unit, integration, and end-to-end tests can improve efficiency and consistency in testing, allowing for faster feedback.
+3. Continuous Integration: Regularly integrating code changes into a shared repository and running automated tests helps catch issues early in the development process.
+4. Test-Driven Development (TDD): Writing tests before the actual code helps ensure that the code meets the desired requirements and functionality from the outset.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
