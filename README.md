@@ -21,6 +21,14 @@
 3. Resource Optimization: Cost control helps in the efficient allocation of resources, ensuring that funds are used effectively and do not lead to waste.
 4. Profitability: For commercial projects, staying within budget directly impacts profitability, as overruns can eat into expected margins.
 5. Scope Management: It helps in controlling project scope by ensuring that any changes are carefully evaluated in terms of their cost implications.
+
+           Strategies that can be used to prevent budget overruns
+1. Detailed Budget Planning: Create a budget that includes all potential costs, such as development, testing, deployment, and maintenance.
+2. Change Control Procedures: Establish a formal process for managing changes to project scope or requirements, ensuring that any changes are assessed for their cost impact.
+3. Regular Monitoring and Reporting: Implement continuous tracking of expenses against the budget.
+4. Risk Management: Identify potential risks that could lead to increased costs and develop mitigation strategies.
+5. Resource Management: Optimize the use of resources by accurately estimating the time and effort required for tasks, and by ensuring that team members are effectively utilized.
+   
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
