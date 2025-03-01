@@ -89,6 +89,7 @@
 4. Change Management: A clear scope provides a framework for evaluating proposed changes.
 
 -A work Breakdown Structure is  hierarchical decomposition of a project into smaller, more manageable components or tasks.
+
               Benefits of a Work Breakdown Structure
 1. Organized Structure: WBS provides a structured view of the project, making it easier to understand the relationships between various tasks and deliverables.
 2. Improved Planning:Helps project managers estimate time and costs more accurately by breaking the project into manageable parts, allowing for better resource allocation.
