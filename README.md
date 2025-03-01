@@ -15,7 +15,12 @@
 4. Risk Management: Identify potential risks and create mitigation plans.
    
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
-
+            How does effective cost control contribute to the success of a software project
+1. Budget Management: It ensures that the project stays within its allocated budget, preventing financial strain on the organization.
+2. Stakeholder Confidence: Maintaining costs within the budget builds trust with stakeholders and clients, demonstrating that the project is well-managed.
+3. Resource Optimization: Cost control helps in the efficient allocation of resources, ensuring that funds are used effectively and do not lead to waste.
+4. Profitability: For commercial projects, staying within budget directly impacts profitability, as overruns can eat into expected margins.
+5. Scope Management: It helps in controlling project scope by ensuring that any changes are carefully evaluated in terms of their cost implications.
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
