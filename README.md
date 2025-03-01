@@ -7,7 +7,8 @@
  2. Resource Management: Delays can lead to resource misallocation and increased costs.
  3. Market Competitiveness: Being first to market can provide a significant competitive advantage in fast paced industries.
  4. Project Scope and Quality: Adhering to deadlines helps maintain the focus on project scope and ensures quality, as rushed work to meet a deadline can lead to errors and bugs.
-       How project managers can ensure that deadlines are met
+
+      How project managers can ensure that deadlines are met
 1. Prioritization: Prioritize tasks based on their importance and urgency.
 2. Clear Planning: Develop a detailed project plan that outlines tasks, timelines, and milestones.
 3. Set Realistic Deadlines: Ensure that deadlines are achievable based on team capacity and project complexity.
