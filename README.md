@@ -82,6 +82,14 @@
 
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+         How does defining the project scope contribute to successful project planning
+1. Clarity and Focus: Clearly defining what is included in the project helps all stakeholders understand the objectives and limits, reducing misunderstandings.
+2. Resource Allocation: A well-defined scope allows for accurate resource planning, ensuring that the necessary time, budget, and human resources are allocated appropriately.
+3. Stakeholder Alignment: Engaging stakeholders in the scope definition process helps align their expectations and priorities, fostering better collaboration and support throughout the project.
+4. Change Management: A clear scope provides a framework for evaluating proposed changes.
+
+
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
